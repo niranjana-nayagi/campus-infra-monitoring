@@ -8,4 +8,3 @@ class Incident(Base):
     title = Column(String, index=True)
     description = Column(String)
     status = Column(String, default="Open")
-
