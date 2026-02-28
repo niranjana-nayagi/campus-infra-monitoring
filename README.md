@@ -1,4 +1,3 @@
-﻿# campus-infra-monitoring
 
 # Campus Infrastructure Monitoring & Incident Management System
 
@@ -27,12 +26,9 @@ This project is a backend microservice platform developed to monitor campus infr
 ---
 
 ## Team Members
-- Member A – Backend & Database
-- Member B – API & Business Logic
-- Member C – DevOps & Deployment
+- Member A RidhuShree  – Backend & Database
+- Member B SreeHarini Ganishkaa S - API & Business Logic
+- Member C Niranjana Nayagi - DevOps & Deployment
 
 ---
 
-## 🐳 Running the Application (Docker)
-
-Build the image:

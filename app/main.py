@@ -1,4 +1,8 @@
 from fastapi import FastAPI
+from app.database import engine, Base
+from app.models import incident, resource
+
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
